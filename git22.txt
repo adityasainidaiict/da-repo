@@ -1,1 +1,1 @@
-hello git 2
+This was my try of git do check out my java project.
