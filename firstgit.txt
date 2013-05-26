@@ -1,1 +1,1 @@
-my first git commit
+my first git commit do check out my java project.
